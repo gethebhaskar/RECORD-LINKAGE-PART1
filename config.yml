@@ -1,0 +1,14 @@
+#First file name
+first_file_name: "POS_DATA.txt" #Mention the POS file in txt format
+
+#First file seperator
+first_file_sep: ";" #Mention ;
+
+#Second file name
+second_file_name: "Master_File.txt"  #Mention the master file in txt format
+
+#Second file seperator
+second_file_sep: ";" #Mention ;
+
+#Matching column name
+ref_col_name: "ZYME_ID" #"ZYME_ID"
