@@ -1,6 +1,8 @@
 # RECORD-LINKAGE-PART1
 This project is about extracting the potential match records from two very large txt files based on 3 conditions and store the result in three different csv files
 
+Note:- I ran this script on more than 4 millions of records
+
 1> Based on ID 
 
 2> BASED on ADDRESS
