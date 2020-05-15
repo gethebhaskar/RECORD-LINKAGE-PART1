@@ -13,7 +13,7 @@ The repository has two files:-
 
 1> config.yml # you can make changes in this file according to your requirement.
 
-2> Extractor_2.py
+2> Extractor_2.py # you can make changes in the script as per your requirement.
 
 Run the Extractor_2.py files to obtain the desire results.
 
